@@ -9,8 +9,8 @@ echelonx-platform is the core repository for EchelonX, a cutting-edge, autonomou
 
 - [Getting Started](#getting-started) 
 - [Architecture](#architecture) 
-   - Component Overview
-   - Modules
+   - [Component Overview](##component-overview) 
+   - [Modules](##modules) 
 - [Installation](#installation) 
 - [Usage](#usage) 
 - [Contributing](#contributing) 
