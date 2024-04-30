@@ -1,0 +1,8 @@
+{
+  "deploy": {
+    "targetServer": "my-production-server",
+    "targetPath": "C:\\inetpub\\wwwroot\\echelonx",
+    "scriptUploadPath": "C:\\temp\\deploy.ps1",
+    "logPath": "C:\\temp\\deploy.log"
+  }
+}
